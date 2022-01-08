@@ -1,4 +1,4 @@
-### Olá! Eu sou MikeyPNG👋
+### Olá! Eu sou Mikey👋
 
 <div align="center">
   <a href="https://github.com/MikeyPNG">
