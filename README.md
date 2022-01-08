@@ -1,4 +1,6 @@
 ### Olá! Eu sou Mikey👋
+Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+Espero que gostem dos conteúdos 😉
 
 <div align="center">
   <a href="https://github.com/MikeyPNG">
