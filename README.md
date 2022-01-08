@@ -1,5 +1,5 @@
 ### Olá! Eu sou Mikey👋
-Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.<br>
 Espero que gostem dos conteúdos 😉
 
 <div align="center">
